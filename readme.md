@@ -5,7 +5,7 @@
 
 ### Installing
 
-git clone https://github.com/lakshay927/podcast-go-next
+git clone https://github.com/blue9-snake/Podcast-test
 
 cd podcast-go-next
 
